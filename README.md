@@ -40,4 +40,14 @@ Hey, I'm Erik, the contributor for this project. I'm a Sr. Software Engineer at 
 
 # Links
 
-TODO
+[Open Bioinformatics Foundation](https://www.open-bio.org/)
+
+[OpenMS](https://www.openms.de/)
+
+[Autowrap](https://github.com/OpenMS/autowrap#readme)
+
+[Cython](https://cython.org/)
+
+[GSoC](https://summerofcode.withgoogle.com/)
+
+[Erik's blog](https://erikscode.space/)
