@@ -41,5 +41,3 @@ print(f'This process uses {round(proc_mem, 2)} MB of memory')
 ```
 
 On average, the process using Python lists uses approximately 18 MB of memory, whereas the process using Python arrays (which use the buffer array protocol and thus skip copying memory) only uses 14 MB of memory. This is a small difference but suppose we make the loops one more order of magnitude higher. Then, the process with lists uses approximately 53 MB whereas the process using arrays hovers around 18 MB. This indicates that arrays scale better for this kind of solution.
-
-(Added 27-May-2022)
