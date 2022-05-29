@@ -2,7 +2,7 @@ For the Google Summer of Code 2022 event, I'll be working with an Open Bioinform
 
 # Working on this week (22-May-2022)
 
-* Learning the C++ Standard Template Library
+* Learning the C++ Template classes
 * Learning about the array buffer protocol in CPython
 
 See [this page](pull_requests.md) for a running list of my pull requests for this project
