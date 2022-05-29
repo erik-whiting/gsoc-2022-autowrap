@@ -5,10 +5,10 @@ My [progress report](progress_page.md) page tracks what I've accomplished so far
 The [PR page](pull_requests.md) is a list of my pull requests so far
 
 The [lessons learned](lessons_learned.md) is a collection of things I've learned so far
-# Working on this week (22-May-2022)
+# Working on this week (29-May-2022)
 
-* Learning the C++ Template classes
-* Learning about the array buffer protocol in CPython
+* Learning Cython
+* Learn C++ Standard Template Library (STL)
 
 
 # Background Info
