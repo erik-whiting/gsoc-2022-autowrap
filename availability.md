@@ -1,3 +1,5 @@
+[Home](README.md)
+
 # Erik's availability
 
 To keep the maintainers apprised of my availability this summer, I want to make the following notes:

@@ -1,3 +1,5 @@
+[Home](../README.md)
+
 ## C++ Template Class Basics
 
 I learned some interesting things about template classes in C++. Basically they are a means of creating classes that can be made of different data types. For examples I made `Array<T>` which could be an integer array or float array.

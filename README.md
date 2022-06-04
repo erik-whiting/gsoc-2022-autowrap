@@ -5,6 +5,8 @@ My [progress report](progress_page.md) page tracks what I've accomplished so far
 The [PR page](pull_requests.md) is a list of pull requests I've made throughough the project
 
 The [lessons learned](lessons_learned.md) is a collection of I've learned during GSoC
+
+Check out [my availability](availability.md) for the Summer
 # Working on this week (29-May-2022)
 
 * Learning Cython
