@@ -7,10 +7,11 @@ The [PR page](pull_requests.md) is a list of pull requests I've made throughough
 The [lessons learned](lessons_learned.md) is a collection of I've learned during GSoC
 
 Check out [my availability](availability.md) for the Summer
-# Working on this week (29-May-2022)
+# Working on this week (6-June-2022)
 
-* Learning Cython
-* Learn C++ Standard Template Library (STL)
+* Workinng on [enable maps of wrapped classes](https://github.com/OpenMS/autowrap/issues/143)
+* Learning Cython (still)
+* NOTE: I'm unavailable this weekend
 
 
 # Background Info
