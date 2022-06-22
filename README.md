@@ -7,11 +7,10 @@ The [PR page](pull_requests.md) is a list of pull requests I've made throughough
 The [lessons learned](lessons_learned.md) is a collection of I've learned during GSoC
 
 Check out [my availability](availability.md) for the Summer
-# Working on this week (6-June-2022)
+# Working on this week (20-June-2022)
 
-* Workinng on [enable maps of wrapped classes](https://github.com/OpenMS/autowrap/issues/143)
-* Learning Cython (still)
-* NOTE: I'm unavailable this weekend
+* Working on [enable maps of wrapped classes](https://github.com/OpenMS/autowrap/issues/143) (still)
+* Add tuple support
 
 
 # Background Info
