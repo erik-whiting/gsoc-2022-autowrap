@@ -88,3 +88,5 @@ def create_special_iop_method(self, pyname, symbol, cdcl, mdcl):
             """
     )
 ```
+
+After some assertions, this method builds a Cython script that essentially overrides the built-in Python function (like `__add__` or `__iadd__` for example) with the method created in the autowrap tools header.
