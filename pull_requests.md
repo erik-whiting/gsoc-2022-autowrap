@@ -5,8 +5,8 @@
 This page contains a running list of pull requests I've made for the project, as well as a quick write-up for each.
 
 ***
-### 26-June 2022 [Support for modulus operator and assignment operator]()
-This pull request adds support for the `%` and `%=` C++ operators. I think this was the only C++ operator missing autowrap implemetnation.
+### 26-June 2022 [Add support for shift and modulus operators](https://github.com/OpenMS/autowrap/pull/159)
+This pull request adds support for the operators `<<`, `<<=`, `>>`, `>>=`, `%`, and `%=`.
 
 ***
 ### 10-June 2022 [Support for mapping wrapped classes](https://github.com/erik-whiting/autowrap/pull/2)
