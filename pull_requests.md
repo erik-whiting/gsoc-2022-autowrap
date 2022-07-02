@@ -5,6 +5,10 @@
 This page contains a running list of pull requests I've made for the project, as well as a quick write-up for each.
 
 ***
+### 2-July 2022 [Finish the map support](https://github.com/OpenMS/autowrap/pull/160)
+This PR finishes the work needed for allowing wrapped classes as both keys and values in C++ map data structures.
+
+***
 ### 26-June 2022 [Add support for shift and modulus operators](https://github.com/OpenMS/autowrap/pull/159)
 This pull request adds support for the operators `<<`, `<<=`, `>>`, `>>=`, `%`, and `%=`.
 

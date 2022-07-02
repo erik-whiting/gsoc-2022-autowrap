@@ -2,8 +2,12 @@
 
 Here is a list of my weekly progress.
 
+June 27 - July 4
+* Am mostly unavailable this week
+* Made PR for maps with wrapped keys/values
+
 June 20 - 26
-* Made PR for modulus operator support
+* Added support for missing operators
 * Working on adding tuple support
 * Waiting on feedback on last PR
 
