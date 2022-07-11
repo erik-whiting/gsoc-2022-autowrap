@@ -7,11 +7,11 @@ The [PR page](pull_requests.md) is a list of pull requests I've made throughough
 The [lessons learned](lessons_learned.md) is a collection of I've learned during GSoC
 
 Check out [my availability](availability.md) for the Summer
-# Working on this week (27-June-2022)
+# Working on this week (11-July-2022)
 
-* Awaiting feedback on [enable maps of wrapped classes](https://github.com/erik-whiting/autowrap/pull/2)
+* Addressing feedback on [enable maps of wrapped classes](https://github.com/erik-whiting/autowrap/pull/2)
 * Add tuple support (still)
-* Awaiting feedback on [modulus operator support](https://github.com/OpenMS/autowrap/pull/158)
+* Possible meeting this week?
 
 # Background Info
 
