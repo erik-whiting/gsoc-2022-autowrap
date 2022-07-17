@@ -7,7 +7,7 @@ This page contains a running list of pull requests I've made for the project, as
 ***
 ### 2-July 2022 [Finish the map support](https://github.com/OpenMS/autowrap/pull/160)
 This PR finishes the work needed for allowing wrapped classes as both keys and values in C++ map data structures.
-Additionally, the pull-request includes a significant refactor to the `StdMapConverter` class's `output_conversion` class builds the Cython text that's eventually used to instantiate and return a `Code` object. This refactor will hopefully lay the foundation for further refactors of the `ConversionProvider`. Simplifying this script should make the learning curve for contribution just a little less steep.
+Additionally, the pull-request includes a significant refactor to the `StdMapConverter` class's `output_conversion` method which builds the Cython text used to instantiate and return a `Code` object. This refactor will hopefully lay the foundation for further refactors of the `ConversionProvider`. Simplifying this script should make the learning curve for contribution just a little less steep.
 
 ***
 ### 26-June 2022 [Add support for shift and modulus operators](https://github.com/OpenMS/autowrap/pull/159)
