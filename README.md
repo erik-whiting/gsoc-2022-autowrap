@@ -7,11 +7,14 @@ The [PR page](pull_requests.md) is a list of pull requests I've made throughough
 The [lessons learned](lessons_learned.md) is a collection of I've learned during GSoC
 
 Check out [my availability](availability.md) for the Summer
-# Working on this week (18-July-2022)
+# Working on this week (29-July-2022)
 
 * Add tuple support (still)
-* Apply refactor to `ConversionProvider` if last PR is accepted
+* Apply Julianus's suggestions to map PR
+  * Apply refactor to `ConversionProvider` if last PR is accepted
 * Add more lessons learned to this repo
+  * Conversion provider, input/output conversion
+* NOTE: As noted in my GSOC proposal, I will be on vacation until the 13th but I will still be working on this project when I can.
 
 # Background Info
 
