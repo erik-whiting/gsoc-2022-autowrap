@@ -1,15 +1,13 @@
-For the Google Summer of Code 2022 event, I'll be working with an Open Bioinformatics Foundation (OBF) subgroup called OpenMS. Specifically, I'll be working on the Autowrap project, a tool for making C++ libraries available in Python. This site will be where I keep track of updates and stuff I learn.
+For the Google Summer of Code 2022 event, I worked with an Open Bioinformatics Foundation (OBF) subgroup called OpenMS. Specifically, I worked on the Autowrap project, a tool for making C++ libraries available in Python. The following bullet points enuemrate some of the work I accomplished:
 
-My [progress report](progress_page.md) page tracks what I've accomplished so far
-
-The [PR page](pull_requests.md) is a list of pull requests I've made throughough the project
-
-The [lessons learned](lessons_learned.md) is a collection of I've learned during GSoC
+* My [progress report](progress_page.md) page tracks what I've accomplished so far
+* The [PR page](pull_requests.md) is a list of pull requests I've made throughough the project
+* The [lessons learned](lessons_learned.md) is a collection of I've learned during GSoC
 
 
 # My Contributions
 
-The initial goal of this GSoC project was to add support for C++ STL but I did not actually get to that. Here are some of the highlights of what I did accomplish over the Summer:
+The initial goal of this GSoC project was to add support for C++ STL. However, I spent most of the time working on adding support for unsupported operators and the mapping of wrapped classes. Here are some highlights of what I did accomplish over the Summer:
 
 ## Housekeeping
 
