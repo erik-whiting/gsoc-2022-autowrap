@@ -1,4 +1,4 @@
-For the Google Summer of Code 2022 event, I worked with an Open Bioinformatics Foundation (OBF) subgroup called OpenMS. Specifically, I worked on the Autowrap project, a tool for making C++ libraries available in Python. The following bullet points enuemrate some of the work I accomplished:
+For the Google Summer of Code 2022 event, I worked with an [Open Bioinformatics Foundation (OBF)](https://www.open-bio.org/) subgroup called [OpenMS](https://www.openms.de/). Specifically, I worked on the [Autowrap](https://github.com/OpenMS/autowrap#readme) project, a tool for making C++ libraries available in Python. The following bullet points enuemrate some of the work I accomplished:
 
 * My [progress report](progress_page.md) page tracks what I've accomplished so far
 * The [PR page](pull_requests.md) is a list of pull requests I've made throughough the project
