@@ -6,15 +6,25 @@ The [PR page](pull_requests.md) is a list of pull requests I've made throughough
 
 The [lessons learned](lessons_learned.md) is a collection of I've learned during GSoC
 
-Check out [my availability](availability.md) for the Summer
-# Working on this week (29-July-2022)
 
-* Add tuple support (still)
-* Apply Julianus's suggestions to map PR
-  * Apply refactor to `ConversionProvider` if last PR is accepted
-* Add more lessons learned to this repo
-  * Conversion provider, input/output conversion
-* NOTE: As noted in my GSOC proposal, I will be on vacation until the 13th but I will still be working on this project when I can.
+# My Contributions
+
+The initial goal of this GSoC project was to add support for C++ STL but I did not actually get to that. Here are some of the highlights of what I did accomplish over the Summer:
+
+## Housekeeping
+
+Ahead of the project, I made a couple of low-tech contributions. The first involved a [PR adding a lot documentation](https://github.com/OpenMS/autowrap/pull/149).
+Additionally, I opened [a PR adding automated lint checker to the CI pipeline](https://github.com/OpenMS/autowrap/pull/156).
+
+## Support for Mapping Wrapped Classes
+Next, I started work on adding support for wrapped STL classes. An example of such a wrapping would include something like `std::map<vector vector>`. The [initial PR](https://github.com/erik-whiting/autowrap/pull/2) can be viewed here.
+
+## Adding Support for Shift and Modulus Operators
+[The next PR I opened](https://github.com/OpenMS/autowrap/pull/159) included work for adding support for C++'s shift, modulus, and their equivalent assignment operators. Specifically, support was added for the follow operators: `<<`, `>>`, `<<=`, `>>=`, `%`, and `%=`.
+
+## More Mapping Support
+Unfortunately, I was never able to finish adding support for the mapping of wrapped classes. You can see my most recent PR here: https://github.com/OpenMS/autowrap/pull/160
+As you can see in this PR, there was a lot of conversation about how best to do this. I eventually could not figure out how to implement what the maintainers wanted. Hopefully, I will be able to finish this PR in a way that satisfies the maintainers, even if it does fall inside the GSoC timeline.
 
 # Background Info
 
@@ -47,7 +57,7 @@ The GSoC Project description was posted [here](https://www.open-bio.org/events/g
 Throughout this Summer, I will be working with the helpful developers at OpenMS to complete this project.
 
 ## Erik
-Hey, I'm Erik, the contributor for this project. I'm a Sr. Software Engineer at CallRail and a PhD student at the University of Nebraska - Lincoln. My research interests include scientific computing, software engineering, and programming langauges.
+Hey, I'm Erik, the contributor for this project. I'm a Sr. Software Engineer at CallRail and a PhD student at the University of Nebraska - Lincoln. My research interests include scientific computing, nanotechnology, and bioinformatics.
 
 # Links
 
@@ -62,3 +72,9 @@ Hey, I'm Erik, the contributor for this project. I'm a Sr. Software Engineer at 
 [GSoC](https://summerofcode.withgoogle.com/)
 
 [Erik's blog](https://erikscode.space/)
+
+# Some Notes on the Project
+
+This was [my availability](availability.md) for the Summer
+
+At the beginning of August, my professional obligations stacked up, and then I started my PhD. As such, after then, I neglected the project and was not able to finish nearly as much as I had hoped. My sincerest apologies to the Open Bioinformatics Foundation and to the friendly developers of OpenMS and Autowrap
