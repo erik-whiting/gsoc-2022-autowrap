@@ -24,6 +24,9 @@ Next, I started work on adding support for wrapped STL classes. An example of su
 Unfortunately, I was never able to finish adding support for the mapping of wrapped classes. You can see my most recent PR here: https://github.com/OpenMS/autowrap/pull/160
 As you can see in this PR, there was a lot of conversation about how best to do this. I eventually could not figure out how to implement what the maintainers wanted. Hopefully, I will be able to finish this PR in a way that satisfies the maintainers, even if it does fall inside the GSoC timeline.
 
+## `std::tuple` Support
+One PR that is currently unfinished is the beginning of adding support for the standard template library's `tuple` data structure. As of writing this, [the tuple PR](https://github.com/OpenMS/autowrap/pull/163) adds an `StdTupleConverter` class to the `ConversionProvider` file. Once this work is completed, it will set the stage for other library data structures to be added.
+
 # Background Info
 
 Here's an overview of this project in general
